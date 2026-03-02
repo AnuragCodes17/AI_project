@@ -1,13 +1,16 @@
-# F1 Race Finish Predictor
+# 🏎️ F1 Race Finish Predictor
 
-An AI-powered dashboard that predicts Formula 1 race results using XGBoost machine learning.
+A simple tool to estimate a driver's final race position based on their team and grid start.
 
-### Live Demo
-**[Launch App: f1-finish-predictor.streamlit.app](https://f1-finish-predictor.streamlit.app/)**
+### 🔗 Live App
+**[f1-finish-predictor.streamlit.app](https://f1-finish-predictor.streamlit.app/)**
 
 ---
 
-### Features
-* **Real-time Predictions:** Uses historical data (2019-2024) to forecast driver finishing positions.
-* **Interactive UI:** Built with Streamlit for a sleek, modern feel.
-* **Custom Styling:** Enhanced with CSS for that authentic F1 "Paddock" look.
+### 📊 How it Works
+* **Driver & Team Selection:** Choose any driver and constructor from the current grid via the dropdown menus.
+* **Grid Position:** Use the interactive slider to set the starting position of the car.
+* **Instant Results:** Generate a predicted finishing position based on historical data patterns (2019–2024).
+
+---
+*Disclaimer: This project is unofficial and not affiliated with Formula 1.*
