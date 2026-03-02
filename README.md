@@ -12,5 +12,10 @@ A simple tool to estimate a driver's final race position based on their team and
 * **Grid Position:** Use the interactive slider to set the starting position of the car.
 * **Instant Results:** Generate a predicted finishing position based on historical data patterns (2019–2024).
 
+* ---
+
+### 📊 Data & Logic
+A beginner-friendly data science project using Python to explore the relationship between starting grid positions and final race results.
+
 ---
 *Disclaimer: This project is unofficial and not affiliated with Formula 1.*
