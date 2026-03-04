@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
-![Models](https://img.shields.io/badge/Models-RandomForest%20%7C%20XGBoost-orange)
+![Models](https://img.shields.io/badge/Models-LogisticRegression%20%7C%20DecisionTree%20%7C%20RandomForest%20%7C%20XGBoost-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🔗 Live App
