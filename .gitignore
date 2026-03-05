@@ -1,1 +1,9 @@
-.vscode/settings.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+.DS_Store
+*.ipynb_checkpoints
+.streamlit/secrets.toml

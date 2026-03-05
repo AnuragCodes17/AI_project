@@ -29,12 +29,12 @@ print('Libraries imported successfully!')
 
 """## 2. Load Data"""
 
-results      = pd.read_csv('results.csv')
-races        = pd.read_csv('races.csv')
-drivers      = pd.read_csv('drivers.csv')
-constructors = pd.read_csv('constructors.csv')
-qualifying   = pd.read_csv('qualifying.csv')
-standings    = pd.read_csv('driver_standings.csv')
+results      = pd.read_csv('data/results.csv')
+races        = pd.read_csv('data/races.csv')
+drivers      = pd.read_csv('data/drivers.csv')
+constructors = pd.read_csv('data/constructors.csv')
+qualifying   = pd.read_csv('data/qualifying.csv')
+standings    = pd.read_csv('data/driver_standings.csv')
 
 print('Results shape:    ', results.shape)
 print('Qualifying shape: ', qualifying.shape)
