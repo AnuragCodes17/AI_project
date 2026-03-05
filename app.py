@@ -156,12 +156,12 @@ html,body{{background:transparent;overflow:hidden;}}
 @st.cache_data
 def load_data():
     return (
-        pd.read_csv("results.csv"),
-        pd.read_csv("races.csv"),
-        pd.read_csv("drivers.csv"),
-        pd.read_csv("constructors.csv"),
-        pd.read_csv("qualifying.csv"),
-        pd.read_csv("driver_standings.csv"),
+        pd.read_csv("data/results.csv"),
+        pd.read_csv("data/races.csv"),
+        pd.read_csv("data/drivers.csv"),
+        pd.read_csv("data/constructors.csv"),
+        pd.read_csv("data/qualifying.csv"),
+        pd.read_csv("data/driver_standings.csv"),
     )
 
 @st.cache_resource
